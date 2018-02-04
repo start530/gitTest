@@ -2,4 +2,4 @@
 
 print "star is so cool"
 
-#git branch switch quickly
+create a new branch is quick simple
